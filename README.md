@@ -58,3 +58,5 @@ This project strengthened my understanding of:
 - Visual customization and user interactivity
 
 ---
+## ✨ Author
+**Mitesh Sen: https://github.com/MiteshNet/** 

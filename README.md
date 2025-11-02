@@ -18,7 +18,7 @@ It combines **data analytics, visualization, and forecasting** to support better
 - **Dynamic Filters:** Region-wise insights (Central, East, South, West)
 
 📷 **Dashboard Preview:**  
-![Supermarket Sales Dashboard]("Supermarket Sales Dashboard Snapshot.png")
+![Supermarket Sales Dashboard]("Supermarket%Sales%Dashboard%Snapshot.png")
 
 ---
 
@@ -28,7 +28,7 @@ It combines **data analytics, visualization, and forecasting** to support better
 - Interactive **date slicer** for zooming into specific time periods  
 
 📷 **Forecast Preview:**  
-![Sales Forecast Dashboard]("Supermarket Sales Forecast Snapshot.png")
+![Sales Forecast Dashboard]("Supermarket%Sales%Forecast%Snapshot.png")
 
 ---
 

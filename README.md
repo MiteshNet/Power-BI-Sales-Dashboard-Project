@@ -18,7 +18,7 @@ It combines **data analytics, visualization, and forecasting** to support better
 - **Dynamic Filters:** Region-wise insights (Central, East, South, West)
 
 📷 **Dashboard Preview:**  
-![Supermarket Sales Dashboard]("https://github.com/MiteshNet/Power-BI-Sales-Dashboard-Project/blob/main/Supermarket%20Sales%20Dashboard%20Snapshot.png")
+![Supermarket Sales Dashboard](https://github.com/MiteshNet/Power-BI-Sales-Dashboard-Project/blob/main/Supermarket%20Sales%20Dashboard%20Snapshot.png)
 
 ---
 

@@ -28,7 +28,7 @@ It combines **data analytics, visualization, and forecasting** to support better
 - Interactive **date slicer** for zooming into specific time periods  
 
 📷 **Forecast Preview:**  
-![Sales Forecast Dashboard]("https://github.com/MiteshNet/Power-BI-Sales-Dashboard-Project/blob/main/Supermarket%20Sales%20Forecast%20Snapshot.png")
+![Sales Forecast Dashboard](https://github.com/MiteshNet/Power-BI-Sales-Dashboard-Project/blob/main/Supermarket%20Sales%20Forecast%20Snapshot.png)
 
 ---
 
